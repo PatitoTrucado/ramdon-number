@@ -1,0 +1,28 @@
+{
+  "name": "ramdon-number",
+  "version": "1.0.0",
+  "description": "ramdon number print",
+  "main": "src/index.js",
+  "module": "esm/index.mjs",
+  "scripts": {
+    "start": "node bin/global.js"
+  },
+  "keywords": [],
+  "author": "Ivan Quintero <toipiola123@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatitoTrucado/ramdon-number.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PatitoTrucado/ramdon-number/issues"
+  },
+  "homepage": "https://github.com/PatitoTrucado/ramdon-number#readme",
+  "bin": {
+    "ramdon-number": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
