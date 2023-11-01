@@ -12,5 +12,6 @@ This application provides a basic demonstration of generating random numbers and
 2. Open the terminal and navigate to the project directory.
 3. Run the application by executing the following command:
 
-   ```shell
-   node index.js
+   ```bash
+    ramdon-number
+   
