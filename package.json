@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node bin/global.js"
   },
-  "keywords": [],
+  "keywords": ["JavaScript"],
   "author": "Ivan Quintero <toipiola123@gmail.com>",
   "license": "MIT",
   "repository": {
